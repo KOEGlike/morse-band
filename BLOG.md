@@ -1,6 +1,6 @@
 
 # Morse Band
-![image of a band on my arm](https://rawcdn.githack.com/KOEGlike/morse-band/10ea6d376f088f068a7faa55c1b2209cb9f8524f/images/morse-band.jpg)
+<img src="https://rawcdn.githack.com/KOEGlike/morse-band/10ea6d376f088f068a7faa55c1b2209cb9f8524f/images/morse-band.jpg" height="320">
 A lil pair of bands that you can use to communicate in Morse code. If you press the button on one band, the other one vibrates.
 
 ## Why?
